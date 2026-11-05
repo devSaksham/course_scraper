@@ -37,7 +37,7 @@ COURSE_URLS = [
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; CoventryCourseScraper/1.0; "
-        "+https://github.com/your-org/coventry-scraper)"
+        "+https://github.com/devSaksham/course_scraper)"
     )
 }
 
